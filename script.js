@@ -10,6 +10,6 @@ typewriter.typeString('Jatziry Diaz')
     .typeString('Programadora frontend JR')
     .pauseFor(1500)
     .deleteAll()
-    .typeString('<strong>Estudiante frustrada</strong>')
+    .typeString('<strong>Una estudiante frustrada</strong>')
     .pauseFor(1500)
     .start();

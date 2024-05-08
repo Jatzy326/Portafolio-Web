@@ -8,7 +8,7 @@ Fue desarrollada con HTML, CSS y JS con el uso de framework Bootstrap utilizando
 
 
 - Capturas de pantalla 
-![Captura1](assets/segundoweb.png)
+![Captura1](assets/segundaweb.png)
 ![Captura2](assets/clongoogle.png)
 ![Captura1](assets/segundoweb2.png)
 
