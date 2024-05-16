@@ -51,3 +51,6 @@ header {
     filter: brightness(0.8); /* Adjust the brightness */
 }
 
+#iconos a {
+    padding-top:25px ;
+}
